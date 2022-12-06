@@ -3,8 +3,14 @@
  ## <p align="center"> Hi there 👋 I'm Dmitry 👨‍💻 </p>
  <p align="center"> iOS developer from Saint Petersburg. </p>
  
- <div markdown="1" align="center">
+My name is Dmitry Khristenko, I'm 26 and I'm currently looking for a first job as a developer. 
+
+Prior to this, I worked as a lawyer for a few years. On my last job I worked closely with colleagues from the IT-department and wrote a master's thesis about a digital smart contracts, which is one of the reasons why I decided to change my profession.
+I always try to learn new technologies to fulfill my curiosity and increase my skill set. My passion and motivation while developing any project is its impact on humankind. I love to work on projects which can make world better and will always be open to such oppurtunities!
  
+ 
+<div markdown="1" align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-khristenko-43159a10a/) 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/DmitryKhristenko/)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/DmitryKhristenko)
@@ -28,6 +34,18 @@
  
  </div>
  
+ <div markdown="1" align="center">
+ 
+ ## 💻 My workspace
+ 
+ [![Mac Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]() 
+ [![iOS Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]() 
+ [![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]() 
+ [![Xcode Badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]() 
+ [![VScode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() 
+ 
+ </div>
+ 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=DmitryKhristenko alt=DmitryKhristenko /> </p>
 
@@ -44,7 +62,3 @@
  </div>
  
 https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
-
-https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
-
-https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white![ios-application-development-banner-mobile](https://user-images.githubusercontent.com/108575497/205840591-b242b446-44e9-41a1-b565-95022b80bf16.jpg)
