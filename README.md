@@ -60,5 +60,3 @@ I always try to learn new technologies to fulfill my curiosity and increase my s
 </a>
 
  </div>
- 
-https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
