@@ -1,9 +1,9 @@
 <img src="https://www.biz4solutions.com/wp-content/uploads/2019/08/ios-application-development-banner.jpg" alt="Banner" />
 
  ## <p align="center"> Hi there 👋 I'm Dmitry 👨‍💻 </p>
- <p align="center"> iOS developer from Saint Petersburg. </p>
+ <p align="center"> iOS developer from Saint Petersburg. 
  
-My name is Dmitry Khristenko, I'm 26 and I'm currently looking for a first job as a developer. 
+ <p align="center"> My name is Dmitry Khristenko, I'm 26 and I'm currently looking for a first job as a developer. </p>
 
 Prior to this, I worked as a lawyer for a few years. On my last job I worked closely with colleagues from the IT-department and wrote a master's thesis about a digital smart contracts, which is one of the reasons why I decided to change my profession.
 I always try to learn new technologies to fulfill my curiosity and increase my skill set. My passion and motivation while developing any project is its impact on humankind. I love to work on projects which can make world better and will always be open to such oppurtunities!
