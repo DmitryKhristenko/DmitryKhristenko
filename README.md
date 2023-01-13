@@ -50,11 +50,11 @@ I always try to learn new technologies to fulfill my curiosity and increase my s
 <div markdown="1" align="center">
 
 <a href="https://github.com/DmitryKhristenko/github-readme-stats">
-<img style="height: 195px;" src="https://github-readme-stats.vercel.app/api?username=DmitryKhristenko&show_icons=true&include_all_commits=true" alt="Stats"/>
+<img style="height: 195px;" src="https://https://github-readme-stats-bergamot2142-gmailcom.vercel.app/api?username=DmitryKhristenko&show_icons=true&include_all_commits=true" alt="Stats"/>
 </a>
 
 <a href="https://github.com/DmitryKhristenko/github-readme-stats">
-<img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryKhristenko&layout=compact" alt="Stats"/>
+<img style="height: 195px;" src="https://https://github-readme-stats-bergamot2142-gmailcom.vercel.app/api/top-langs/?username=DmitryKhristenko&layout=compact" alt="Stats"/>
 </a>
 
  </div>
