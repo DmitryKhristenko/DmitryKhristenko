@@ -28,7 +28,7 @@ I always try to learn new technologies to fulfill my curiosity and increase my s
 
  <div markdown="1" align="center">
  
- You can view my resume <a href='https://drive.google.com/file/d/1tZzi_cdb74K7f-QKfiIINGYh7sjyGwiV/view?usp=sharing ' target=_blank>here</a>
+ You can view my resume <a href='https://drive.google.com/file/d/1XACfO82BPGZvBltWSPpIEbYC7WMiOTVn/view?usp=sharing ' target=_blank>here</a>
  
  </div>
  
