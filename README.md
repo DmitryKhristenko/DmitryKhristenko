@@ -21,7 +21,7 @@ I always try to learn new technologies to fulfill my curiosity and increase my s
 📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrykhrist@gmail.com) 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/DmitryKhm) 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/DmitriyiOS) 
 
 </div>
 
